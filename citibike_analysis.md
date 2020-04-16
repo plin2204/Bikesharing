@@ -18,4 +18,4 @@ Also female uses are ~1/3 of male users based on the Gerder Breakdown of NYC Bik
 (page 3) Because Des Moines couldn't have as many tourists as New York city, the investment scale in Des Moines should be NO more than **4%** of NYC. 
 
 
-### Link: [NYC Citi Bike Tableau Story](https://public.tableau.com/profile/ping.lin7217#!/vizhome/CitiBike_15869995960370/Story1?publish=yes)
+### Link: [my NYC Citi Bike Tableau Story](https://public.tableau.com/profile/ping.lin7217#!/vizhome/CitiBike_15869995960370/Story1?publish=yes)
