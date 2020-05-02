@@ -6,7 +6,7 @@ Work with data visualization software, Tableau, to present a business proposal f
 •	Use Tableau worksheets to display data in a professional way.<br>
 •	Portray data accurately using Tableau dashboards.
 
-## Challenge 14
+## Discussion
 1.	Select your questions. During this step, you'll consider which results you want to share with your audience. What do they want to see? How can we use that information to make their decision making process easier?
 2.	Execute independent research. You'll need to look at other relevant pieces of information to build a bigger picture. Search other sources to find information that will make your visualization more powerful.
 3.	Craft your Tableau story. This is when you create your story, primarily from worksheets and other visuals, with descriptions for each of them.
