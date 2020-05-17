@@ -13,6 +13,6 @@ Work with data visualization software, Tableau, to present a business proposal f
 4.	Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.
 
 
-### citibike_analysis.md is the written analysis
+### [citibike_analysis.md](https://github.com/plin2204/Bikesharing_Tableau/blob/master/citibike_analysis.md) is the written analysis.
 
 ### my Tableau Public Link: [NYC Citi Bike Tableau Story](https://public.tableau.com/profile/ping.lin7217#!/vizhome/CitiBike_15869995960370/Story1?publish=yes)
